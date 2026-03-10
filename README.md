@@ -12,10 +12,10 @@ Unity Multiplayer Game Developer
 
 ## Core Skills
 
-Multiplayer Networking
-Server Authoritative Architecture
-Real-time State Synchronization
-Unity Gameplay Programming
+* Multiplayer Networking
+* Server Authoritative Architecture
+* Real-time State Synchronization
+* Unity Gameplay Programming
 
 ## Featured Projects
 
